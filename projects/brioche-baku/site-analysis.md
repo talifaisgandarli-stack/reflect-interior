@@ -61,3 +61,15 @@ Yeni istiqamət: **rəngli mid-century modern, London ab-havası** (1951–1969:
 - Lotus: Lucienne Day ruhunda rəngli təkrarlanan naxış.
 - Referanslar: Humble Pizza (Child Studio), Lina Stores (Red Deer / A-nrd), Piraña və Sister Jane (Sella Concept), Frank's Ice Cream (Liqui Design).
 - Figma: https://www.figma.com/design/8hkJs6l2fCdblhPVICcBXg — "v3 — London Mid-Century" səhifəsi.
+
+## DÜZƏLİŞ (2026-10-19): zalın forması
+Müştəri qeyd etdi ki, layihə **dar-uzun yox, təxminən kvadrat formalı 40–50 m²** zal üçündür. Hesablamalarda ≈7 × 6.5 m, tavan ≈4 m götürülür.
+Qəbul edilmiş plan:
+- arxa sağ küncdə L-formalı piştaxta və vitrin;
+- sol divar boyunca banketka;
+- mərkəzdə 6 nəfərlik dəyirmi masa;
+- küçə şüşəsi boyunca pəncərə sərisi;
+- arxa sol küncdə çəhrayı konsultasiya nişi;
+- cəmi 16–18 yer.
+
+Yuxarıdakı dar-dərin plana aid fərziyyələr (zona ardıcıllığı, mərkəzi sütun) etibarsızdır.
