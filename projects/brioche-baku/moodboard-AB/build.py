@@ -11,7 +11,7 @@ pages=[]; N=[0]
 def frame(body, title='', dark=False, idx=True):
     N[0]+=1
     hdr='' if dark else f'''<div class="hdr"><span class="brand">SPRING · CAKE BOUTIQUE</span><span class="sec">{title}</span><span class="no">{N[0]:02d}</span></div>'''
-    ftr=f'''<div class="ftr {'d' if dark else ''}"><span class="reflect">REFLECT <b>ARCHITECTS</b></span><span>Konsept moodboard · Bakı · 2026</span></div>'''
+    ftr=f'''<div class="ftr {'d' if dark else ''}"><img class="rlogo" src="{'reflect-logo-cream.png' if dark else 'reflect-logo-green.png'}"><span>Konsept moodboard · Bakı · 2026</span></div>'''
     pages.append(f'<section class="page {"dark" if dark else ""}">{hdr}<div class="body">{body}</div>{ftr}</section>')
 def row(items, h=None, gap=5, maxw=CW, maxh=CH-10):
     rs=sum(R[i] for i,_ in items); hh=min((maxw-gap*(len(items)-1))/rs, maxh) if h is None else h
@@ -31,26 +31,26 @@ def divider(letter,name,logic,keys,img):
 A='Konsept A — The Cake Table'; B='Konsept B — London Tea Room'
 divider('A','The Cake Table','Tort masada. Səma tavanda. Mətbəx göz önündə.',['Masa','Səma','Səmimiyyət'],'s1-000')
 frame(row([('s1-001','Rənglənmiş tavan'),('s1-002','Şüşə qapaqlar'),('s1-003','Seçim anı')]),A)
-frame(row([('s1-004','Mətbəx pəncərəsi · kassa'),('s1-005','Skamya'),('s1-006','Pəncərə sərisi')]),A)
-frame(row([('s1-008','Fasad'),('s1-007','Oxlov tutacaq'),('s1-009','Əl işi')]),A)
-pa=[('#EFD9A0','Yağ sarısı'),('#B9CDA1','Püstə'),('#B88A55','Bal palıd'),('#C7714E','Terakota'),('#CFE0E3','Səma'),('#E9CFC2','Krem mərmər')]
+frame(row([('s1-004','Mətbəx pəncərəsi · kassa'),('s1-005','Skamya'),('s1-006','Pəncərə önündə oturacaq')]),A)
+frame(row([('s1-008','Fasad'),('s1-007','Oxlov qapı dəstəyi'),('s1-009','Əl işi')]),A)
+pa=[('#EFD9A0','Kərə yağı sarısı'),('#B9CDA1','Püstəyi'),('#B88A55','Bal rəngli palıd'),('#C7714E','Terakota'),('#CFE0E3','Səma mavisi'),('#E9CFC2','Krem mərmər')]
 frame(f'<div class="pm">{row([("s1-011","Plan"),("s1-010","Materiallar")],maxw=CW-70)}{swatches(pa)}</div>',A)
-divider('B','London Tea Room','Divarlar hekayə danışır, piştaxta tort kimi qatlanır.',['Qalereya','Qat-qat','Yaşıl salon'],'s2-003')
+divider('B','London Tea Room','Divarlar hekayə danışır, piştaxta tort kimi qat-qatdır.',['Qalereya','Qat-qat','Yaşıl salon'],'s2-003')
 frame(row([('s2-001','Qalereya divarı'),('s2-002','Hekayə'),('s2-006','Çay vaxtı')]),B)
 frame(row([('s2-004','Piştaxta'),('s2-005','Qat-qat forma'),('s2-008','Konsultasiya nişi')]),B)
 # P10 custom: tall + stacked
 hh=CH-10; wt=R['s2-007']*hh; Wc=(hh-5-6)/(1/R['s2-010']+1/R['s2-009'])
 frame(f'''<div class="row" style="gap:5mm"><figure style="width:{wt:.1f}mm"><img src="img/s2-007.jpg" style="height:{hh:.1f}mm"><figcaption>Pəncərə skamyası</figcaption></figure>
-<div class="stack" style="width:{Wc:.1f}mm"><figure><img src="img/s2-010.jpg" style="width:{Wc:.1f}mm"><figcaption>Divar üçün əsərlər</figcaption></figure>
+<div class="stack" style="width:{Wc:.1f}mm"><figure><img src="img/s2-010.jpg" style="width:{Wc:.1f}mm"><figcaption>Divar üçün tablolar</figcaption></figure>
 <figure><img src="img/s2-009.jpg" style="width:{Wc:.1f}mm"><figcaption>Oxlov çırağı</figcaption></figure></div></div>''',B)
-pb=[('#F4EFE6','İsti ağ'),('#A9B79A','Adaçayı'),('#6E4A33','Qoz'),('#E3B8AA','Tort çəhrayısı'),('#C8402F','Pomidor'),('#D9A53A','Xardal')]
+pb=[('#F4EFE6','İsti ağ'),('#A9B79A','Adaçayı yaşılı'),('#6E4A33','Qoz ağacı'),('#E3B8AA','Tort çəhrayısı'),('#C8402F','Pomidor qırmızısı'),('#D9A53A','Xardal sarısı')]
 frame(f'<div class="pm">{row([("s2-000","Plan"),("s2-011","Materiallar")],maxw=CW-70)}{swatches(pb)}</div>',B)
 # compare
 hc=150
 frame(f'''<div class="cmp"><div><img src="img/s1-000.jpg" style="height:{hc}mm;width:{R["s1-000"]*hc:.0f}mm"><div class="cl2"><b>A</b><h3>The Cake Table</h3><p>Masa · Səma · Səmimiyyət</p></div></div>
 <div><img src="img/s2-001.jpg" style="height:{hc}mm;width:{R["s2-001"]*hc:.0f}mm"><div class="cl2"><b>B</b><h3>London Tea Room</h3><p>Qalereya · Qat-qat · Yaşıl salon</p></div></div></div>''','A / B')
 # closing
-frame('''<div class="close"><img class="logo" src="spring-logo.png"><div class="by">Hazırladı</div><div class="reflect big2">REFLECT <b>ARCHITECTS</b></div></div>''',dark=True)
+frame('''<div class="close"><img class="logo" src="spring-logo.png"><div class="by">Hazırladı</div><img class="rlogo-big" src="reflect-logo-cream.png"></div>''',dark=True)
 css=f'''
 @font-face{{font-family:CG;src:url({FR}-latin-400-normal.woff2)}}@font-face{{font-family:CG;src:url({FR}-latin-ext-400-normal.woff2);unicode-range:U+0100-024F,U+0259,U+018F}}
 @font-face{{font-family:CG;font-style:italic;src:url({FR}-latin-400-italic.woff2)}}@font-face{{font-family:CG;font-style:italic;src:url({FR}-latin-ext-400-italic.woff2);unicode-range:U+0100-024F,U+0259,U+018F}}
@@ -85,7 +85,7 @@ h2{{font-family:CG;font-weight:400;font-size:40pt;margin-top:6mm}}
 .sw i{{width:16mm;height:16mm;border-radius:50%;border:.2mm solid rgba(0,0,0,.08);display:block}}
 .cmp{{display:flex;gap:14mm;justify-content:center}}.cmp>div{{display:flex;flex-direction:column}}.cmp img{{object-fit:cover;display:block}}
 .cl2{{margin-top:5mm}}.cl2 b{{color:{GOLD};font-weight:500;letter-spacing:.2em;font-size:9pt}}.cl2 h3{{font-family:CG;font-weight:400;font-size:24pt;margin-top:1mm}}.cl2 p{{font-size:8pt;letter-spacing:.25em;text-transform:uppercase;margin-top:2mm;color:#5b5a50}}
-.close{{display:flex;flex-direction:column;align-items:center;gap:8mm}}.by{{font-size:8pt;letter-spacing:.35em;text-transform:uppercase;color:{GOLD};margin-top:10mm}}.big2{{font-size:20pt;letter-spacing:.5em}}
+.rlogo{{height:5.5mm;display:block}}.rlogo-big{{height:22mm;display:block}}.close{{display:flex;flex-direction:column;align-items:center;gap:8mm}}.by{{font-size:8pt;letter-spacing:.35em;text-transform:uppercase;color:{GOLD};margin-top:10mm}}.big2{{font-size:20pt;letter-spacing:.5em}}
 '''
 open(f'{S}/moodboard.html','w').write(f'<!doctype html><html lang="az"><head><meta charset="utf-8"><title>SPRING konsept moodboard</title><style>{css}</style></head><body>{"".join(pages)}</body></html>')
 print(len(pages))
