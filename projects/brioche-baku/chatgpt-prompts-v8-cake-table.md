@@ -142,7 +142,7 @@ Vertical close-up: a hand lifting a tall glass cloche from a strawberry cream ca
 
 ### 5. Mətbəx pəncərəsi və xidmət piştaxtası (4:5)
 ```
-Photograph of the back wall: a wide, low window with reeded glass in a pistachio-green painted frame, behind it pastry chefs in white aprons softly blurred while piping cream; in front, a slim honey-oak service counter with a honed marble top, a compact espresso machine, a stack of pale cake boxes tied with ribbon, a small brass bell. Butter-yellow beadboard below, warm white limewash above, one small framed botanical print. Honest and charming. 4:5, 35 mm.
+Photograph of the back wall: a wide, low window with reeded glass in a pistachio-green painted frame, behind it pastry chefs in white aprons softly blurred while piping cream; in front, the slim honey-oak service counter with a honed marble top: at its right end the discreet till (only a card terminal and a small brass bell visible), in the middle a compact espresso machine, at the left end the wrapping station with stacked pale cake boxes tied with ribbon. Butter-yellow beadboard below, warm white limewash above, one small framed botanical print. Honest and charming. 4:5, 35 mm.
 ```
 
 ### 6. Skamya və kiçik masalar (2:3)
@@ -173,6 +173,75 @@ Top-down flat-lay of the SPRING material palette on a warm white limewash board,
 ### 11. Kuşbaxışı plan — aksonometriya (1:1)
 ```
 Clean isometric axonometric cutaway of the almost-square 45 m² cake shop (7 × 6.5 m) seen from above at 45°, ceiling partly lifted to show its painted underside: oval cake table with glass cloches in the centre; reeded-glass kitchen window and slim service counter on the back wall; built-in bench with three small tables on the left wall; window counter with stools along the street glazing; a round consultation table in the back-left corner; terracotta floor; butter-yellow beadboard walls. Architectural presentation style, soft shadows, accurate proportions, no text. 1:1.
+```
+
+---
+
+## Əlavə kadrlar (12–24)
+
+### 12. Kassa — yaxın plan (4:5)
+```
+Close photograph of the till at the right end of the slim honey-oak service counter in front of the reeded-glass kitchen window: a honed white marble top with only a small card terminal and a small brass bell on it, a slim tablet set flush into a recessed oak slot, no visible cables or printers, a small chalk price board on a brass stand listing cakes in neat handwriting (illegible), a stack of pale pink cake boxes tied with green ribbon waiting for a customer. Behind, pastry chefs softly blurred through the reeded glass. Butter-yellow beadboard on the counter's side wall. Calm, tidy, discreet luxury. 4:5, 50 mm.
+```
+
+### 13. Kassa — qonağın baxışından, tort masası ön planda (2:3)
+```
+Vertical photograph from the customer's position at the end of the cake table: in the foreground, softly out of focus, a glass cloche and the small refrigerated slice case on the marble table edge; in sharp focus behind, the till end of the honey-oak service counter with marble top, brass bell, card terminal and a smiling staff member in a cream apron softly visible from the shoulders down, wrapping a cake box; the reeded kitchen window behind. 2:3, 50 mm, shallow depth of field.
+```
+
+### 14. Ödəniş anı — əl detalı (4:5)
+```
+Close-up of a customer's hand tapping a card on the small terminal on the honed white marble counter top, next to a pale pink cake box tied with green ribbon and the small brass bell; the honey-oak counter edge with a soft rounded profile; warm light. Elegant, real, intimate. 4:5, 85 mm, f/2.
+```
+
+### 15. Kassanın arxasından girişə baxış (16:9)
+```
+Photograph taken from behind the till at the back-right corner, looking diagonally across the almost-square room towards the entrance: in the foreground the marble counter top with the brass bell, in the middle the oval cake table with glass cloches under three opal pendants, the painted sky-blue ceiling above, the bench with striped cushion on the left, the street windows and the glass door with rolling-pin handle in the background, morning daylight streaming in. Shows the whole flow of the shop. 16:9, 24 mm.
+```
+
+### 16. Qablaşdırma stansiyası (4:5)
+```
+Photograph of the left end of the service counter: rolls of green and cream ribbon on a brass bar, a neat stack of pale pink cake boxes with a tiny lotus stamp, a pair of scissors, tissue paper, and a low open oak shelf below holding three pre-ordered cake boxes with handwritten name tags (illegible). Butter-yellow beadboard and pistachio rail behind. Crafted, orderly, charming. 4:5, 50 mm.
+```
+
+### 17. Dilim tortlar üçün soyuducu qutu (2:3)
+```
+Vertical close-up of the small, elegant refrigerated glass case at the end of the oval cake table: slim brass frame, two glass shelves with neat slices of Victoria sponge, pistachio cake, lemon cake and chocolate cake on white plates, a handwritten card on a tiny brass stand, the marble table top and a glass cloche beside it, the painted ceiling softly reflected in the glass. 2:3, 85 mm.
+```
+
+### 18. Masa üstü — yuxarıdan (flat-lay) (4:5)
+```
+Top-down photograph of the oval cake table's marble top: four glass cloches seen from above over whole cakes, a cake knife on a linen napkin, a few slices on plates, scattered fresh cherries and pistachios, soft daylight shadows of the window bars across the marble. Graphic, appetising. 4:5, top-down.
+```
+
+### 19. Mətbəx pəncərəsi — qənnadçı detalı (2:3)
+```
+Vertical photograph through the reeded-glass kitchen window, one clear section in the middle: a pastry chef's hands piping cream roses onto a pistachio cake, flour on the steel bench, warm light; the pistachio-green window frame and the edge of the marble service counter in the foreground. Honest, real, hand-made. 2:3, 50 mm.
+```
+
+### 20. Konsultasiya masası (4:5)
+```
+Photograph of the back-left corner: a round honey-oak table with two bentwood chairs, a tall white celebration cake on a ceramic stand as a sample, an open linen-bound catalogue of cake designs, a few fabric ribbons and a small vase with one blossom branch; butter-yellow beadboard behind, a small framed botanical lotus print and a gathered-shade sconce. Calm, personal. 4:5, 35 mm.
+```
+
+### 21. Tavan küncü — lotus ornamenti (1:1)
+```
+Close photograph of one corner of the hand-painted ceiling: the thin green painted border meeting at the corner with a delicate hand-painted lotus ornament, blossom branches and a small bird entering from the sky-blue field, visible brush strokes, the top of the warm white limewash wall and cornice line below. 1:1, 70 mm.
+```
+
+### 22. Döşəmə və masa ayağı detalı (4:5)
+```
+Close photograph at floor level: honed terracotta tiles with small cream marble cabochons, the turned honey-oak leg of the cake table with a thin brass shoe, a pale cake box on the open shelf under the table, a customer's shoe and the hem of a coat passing by softly blurred. Warm, textural. 4:5, 35 mm.
+```
+
+### 23. Fasad — axşam (2:3)
+```
+Use the attached facade photo as the exact architectural reference (keep the limestone facade and RECTANGULAR openings). Vertical evening photograph: the striped green-and-cream awning, the small brass SPRING sign, the shop glowing warmly from inside — the painted ceiling and the cake table with glass cloches visible through the windows, opal globes shining. Blue-hour sky, wet pavement reflections. 2:3, 35 mm, straight verticals.
+```
+
+### 24. Tort qutusu — brend detalı (1:1)
+```
+Product photograph of a pale pink cake box with a small green line-art lotus stamp and the word SPRING in a small serif, tied with green-and-cream striped ribbon, placed on the white marble till counter next to the brass bell, butter-yellow beadboard blurred behind. Soft daylight. 1:1, 85 mm.
 ```
 
 ---
