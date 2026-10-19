@@ -48,3 +48,13 @@
 1. **Piştaxta cəbhəsi:** flüt ağac (05, 09), adaçayı barmaq kafel (08) və ya yaşıl-ağ zolaqlı kafel (15).
 2. **İmza lampa:** oxlov çırağı (03) və ya kruassan ratan lampa (12). Ümumi işıq üçün büzməli parça abajurlar (13) və ya opal lampalar (05, 06, 09).
 3. **Döşəmə:** kiçik altıbucaqlı mozaika (13), ağac (07) və ya ağ-qara naxışlı plitə yalnız girişdə (09).
+
+# 4-cü (son) beşlik (2026-10-19)
+
+| # | Fayl | Nə görünür | Moodboard üçün qərar |
+|---|---|---|---|
+| 16 | 16-burl-wood-shelves-sage-banquette-mirror.webp | Kəhrəba rəngli naxışlı (burl) ağac rəf sistemi, banketka üstündə güzgü divar, adaçayı yaşılı kanallı dəri banketka, latun ayaqlı kiçik mərmər bistro masalar, ikiqat abajurlu aplik, ağ yelpik naxışlı mozaika döşəmə | **Əsas referans — tam istifadə et.** Kvadrat zal üçün ideal: banketka + güzgü məkanı ikiqat göstərir. **Dəyiş:** xrom çertyoj stulları yerinə ağac oturacaqlı stul |
+| 17 | 17-london-bakery-colander-lamps.webp | London məhəllə bakery-si: süzgəcdən (dərşələk) lampalar, çay dəsti rəfi, sıx məhsul nümayişi | **Qismən istifadə et:** süzgəc lampası ideyası (təvazökar, yumorlu), çay dəsti rəfi, "London məhəllə" hissi. **Götürmə:** qarışıqlıq, rustik taxta rəflər, adi soyuducu vitrin |
+| 18 | 18-stacked-walnut-counter-pink-marble.webp | Üst-üstə qoyulmuş "simit" halqalarından ibarət qoz ağacı piştaxta, çəhrayı mərmər üst, qoz panelli divar, hərfli menyu lövhəsi | **İstifadə et — imza piştaxta ideyası.** Qat-qat forma tort laylarını xatırladır və SPRING üçün çox güclü məna daşıyır. **Diqqət:** bahalı əyilmiş ağac işidir; sadələşdirilmiş versiya (2 halqa + düz flüt) mümkündür |
+| 19 | 19-stacked-counter-terracotta-floor-stools.webp | Eyni məkan: terakota döşəmə (radial xətlərlə), üst-üstə yığılmış ağac və məxmər oturacaqlar, boru formalı lampalar | **İstifadə et:** terakota döşəmə variantı, yığma dəyirmi oturacaqlar (pəncərə zonası üçün). **Götürmə:** divarların hamısını tünd qozla örtmək — 45 m² zal üçün çox tünd olar; panel yalnız aşağı hissədə qalsın |
+| 20 | 20-window-bench-stripes-turned-table.webp | Pəncərə boyu skamya, qırmızı-ağ zolaqlı döşək, çiçəkli yastıqlar, yonulmuş (bobbin) ağac ayaqlı masa, çiçəkli oturacaqlı yığma stullar, yuvarlaq başlı rifli şüşə şkaflar, mərmər fon, klassik karniz | **İstifadə et:** küçə şüşəsi boyu zolaqlı döşəkli skamya, yonulmuş ağac masa ayağı, yuvarlaq başlı rifli şüşə şkaf, karniz. Çiçəkli parça yalnız 1–2 yastıqda |
