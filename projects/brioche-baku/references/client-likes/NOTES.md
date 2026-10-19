@@ -33,3 +33,18 @@
 - **Divarlar və güzgülər:** divarın aşağısında kafel haşiyə; yuxarıda qalereya divarı və ya çərçivəli fotolar; tağvari güzgülər.
 - **İşıq:** opal və ya fırçalanmış polad sadə lampalar.
 - **Fasad:** parça günlük və kiçik monoqram.
+
+# 3-cü beşlik (2026-10-19)
+
+| # | Fayl | Nə görünür | Moodboard üçün qərar |
+|---|---|---|---|
+| 11 | 11-arched-wood-display-cane.webp | Tünd qoz rəngli flüt ağacla örtülmüş hündür, tağlı nümayiş şkafı; aşağıda ratan (həsir) qapaqlı çekmecələr; içində boz əl işi kafel; işıqlı rəflər | **İstifadə et:** tağlı ağac şkaf, ratan qapaqlar, kafel arxa fon. SPRING-də qutulu tortlar və hədiyyə rəfi kimi. **Götürmə:** qara trek-spotlar (mövcud məkanın əsas problemi), 3D ağ divar panelləri (ucuz görünür), plastik paketli məhsul nümayişi |
+| 12 | 12-croissant-rattan-pendants.webp | Kruassan formalı ratan asma lampalar, tünd kafe | **Alternativ kimi saxla.** Əl işi və mövzuya uyğundur, amma oxlov çırağı (03) ilə birlikdə iki "mövzu" lampası çox olar. Yalnız biri seçilməlidir. **Götürmə:** tünd divarlar, açıq ventilyasiya kanalları |
+| 13 | 13-oak-counter-ruffle-shades-hex-floor.webp | Panelli palıd piştaxta, ağ mərmər üst, şüşə vitrin, qırmızı zolaqlı büzməli parça abajurlar, ağ-qara kiçik altıbucaqlı mozaika döşəmə | **İstifadə et:** büzməli zolaqlı parça abajurlar (təvazökar, şirin, aksent rəngi daşıyır), panelli palıd piştaxta, kiçik altıbucaqlı mozaika döşəmə (klassik London/Paris kafesi). **Götürmə:** dəri, mismarlı, latun ayaqlı bar stulları — çox ağır, "pub" hissi verir; planda bar oturacağı da yoxdur |
+| 14 | 14-oak-shelving-ruffle-shade-vitrine.webp | Eyni məkan: palıd rəf divarı, çərçivəli portret, büzməli abajur, mərmər haşiyəli vitrin | **İstifadə et:** palıd arxa rəf sistemi, rəflər arasında çərçivəli sənət əsəri, vitrin haşiyəsi. **Götürmə:** spirtli içki nümayişi |
+| 15 | 15-green-white-stripe-tile-counter.webp | Yaşıl-ağ şaquli zolaqlı kafel piştaxta (Lina Stores ruhu), mərmər üst, latun dayaqlı şüşə qoruyucu, həsir səbətlər, şüşə tort qapaqları, tağlı ağac rəf | **İstifadə et:** yaşıl-ağ zolaqlı kafel — Spring yaşılı ilə birbaşa bağlantı; latun dayaqlı şüşə qoruyucu; şüşə tort qapaqları. **Götürmə:** stəkan qalaqları, şüşə butulkalar, ümumi qarışıqlıq. **Qərar lazımdır:** piştaxta cəbhəsi üçün ya bu zolaqlı kafel, ya adaçayı barmaq kafel (08), ya da flüt ağac (05/09) — yalnız biri |
+
+## Üç beşlikdən sonra açıq qalan seçimlər
+1. **Piştaxta cəbhəsi:** flüt ağac (05, 09), adaçayı barmaq kafel (08) və ya yaşıl-ağ zolaqlı kafel (15).
+2. **İmza lampa:** oxlov çırağı (03) və ya kruassan ratan lampa (12). Ümumi işıq üçün büzməli parça abajurlar (13) və ya opal lampalar (05, 06, 09).
+3. **Döşəmə:** kiçik altıbucaqlı mozaika (13), ağac (07) və ya ağ-qara naxışlı plitə yalnız girişdə (09).
