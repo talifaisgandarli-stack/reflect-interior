@@ -37,3 +37,18 @@ Mənbə: sifarişçinin videosu (2026-10-19, 24 san.). Məqsəd: interyerin yeni
 - Brend: sarı + tünd bənövşəyi-qəhvəyi, "B" monoqramı, xətti loqo üslubu.
 - Funksiya: coffee, pastry, bakery, tea, sandwiches; 07:00–22:00; tort vitrini, çörək rəfi, kofe barı, içki soyuducusu.
 - Küçə vitrini və Heydər Əliyev Mərkəzi istiqamətinə görünüş — əsas üstünlük.
+
+## YENİLƏNMƏ (2026-10-19): rebrendinq — SPRING Cake Boutique
+Məkan artıq Brioche kimi yox, **SPRING® — Cake Boutique** (tort butiki) kimi fəaliyyət göstərəcək.
+Yuxarıdakı Brioche brend elementləri (sarı + bənövşəyi, "B" monoqramı) **artıq etibarsızdır**.
+
+Yeni loqo:
+- Simvol: lotus çiçəyi (xətti, zərif kontur), sözün üstündə.
+- Yazı: "SPRING" — klassik serif (Trajan/Cinzel tipli), böyük hərflər, ® işarəsi; altında "CAKE BOUTIQUE" — kiçik, geniş aralıqlı serif.
+- Rənglər: tünd zümrüd / şam yaşılı fon (≈ #0F2A22) + qızılı / şampan qızılı (≈ #D9B86C).
+- Xarakter: premium, lüks, zərif, botanik — patisseriya butiki.
+
+Dizayn üçün nəticələr:
+- Funksiya fokusu: tort vitrini, sifariş tortları (konsultasiya masası), dequstasiya, kofe + desert; çörək rəfi ikinci plana keçir və ya çıxarılır.
+- Palitra: tünd yaşıl + qızılı aksentlər (fırçalanmış latun), krem/fil sümüyü fon, isti işıq; tarixi əhəngdaşı fasadla uyğun klassik-müasir dil.
+- Lotus motivi: ornament, işıqlı loqo divarı, şüşə qrafikası, qapı tutacaqları və s.
