@@ -52,3 +52,12 @@ Dizayn üçün nəticələr:
 - Funksiya fokusu: tort vitrini, sifariş tortları (konsultasiya masası), dequstasiya, kofe + desert; çörək rəfi ikinci plana keçir və ya çıxarılır.
 - Palitra: tünd yaşıl + qızılı aksentlər (fırçalanmış latun), krem/fil sümüyü fon, isti işıq; tarixi əhəngdaşı fasadla uyğun klassik-müasir dil.
 - Lotus motivi: ornament, işıqlı loqo divarı, şüşə qrafikası, qapı tutacaqları və s.
+
+## YENİLƏNMƏ (2026-10-19): konsept istiqaməti dəyişdi — v3 "Spring in London"
+Müştəri "Lotus Salon" (yaşıl-qızılı heritage lüks) istiqamətini köhnə üslublu ("demode") hesab edib rədd etdi.
+Yeni istiqamət: **rəngli mid-century modern, London ab-havası** (1951–1969: Festival of Britain, Lucienne/Robin Day, Soho Formica kafeləri).
+- Palitra: Spring yaşılı #0F3B2E (brend lövbəri), püstə #BFD7A8, krem #F7F0E2, pomidor qırmızısı #C8402F, pudra çəhrayı #F3C8C1, xardal #E3A92C, albalı ağacı #7E3B22. Qızılı yalnız brend detallarında; əsas metal xromdur.
+- Materiallar: Formica laminat (flüt piştaxta), rəngli terrazzo, şirli bullnose "metro" kafeli, albalı/tik ağacı, xrom.
+- Lotus: Lucienne Day ruhunda rəngli təkrarlanan naxış.
+- Referanslar: Humble Pizza (Child Studio), Lina Stores (Red Deer / A-nrd), Piraña və Sister Jane (Sella Concept), Frank's Ice Cream (Liqui Design).
+- Figma: https://www.figma.com/design/8hkJs6l2fCdblhPVICcBXg — "v3 — London Mid-Century" səhifəsi.
