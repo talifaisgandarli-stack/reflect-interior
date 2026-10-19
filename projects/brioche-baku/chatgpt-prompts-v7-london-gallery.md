@@ -22,9 +22,10 @@
 | Kod | Material | Harada |
 |---|---|---|
 | WD-01 | Açıq palıd, təbii matt yağ | Rəf divarı, pəncərə skamyası, stullar, masa ayağı, qapı çərçivələri |
-| WD-02 | Qoz, satin lak, naxışlı | Qat-qat piştaxta bazası, çərçivələr |
+| WD-02 | Qoz, satin lak | Çərçivələr, kiçik detallar |
+| TL-01 | Əl işi "barmaq" kafel, 2.5×20 sm, tünd Spring yaşılı (#1F3B30), satin şir, yüngül rəng fərqi ilə | Piştaxta cəbhəsi (şaquli düzülüş) |
 | WD-03 | Adaçayı yaşılı boyalı ağac panel (#A9B79A) | Aşağı divarlar, 1.1 m-ə qədər |
-| ST-01 | Çəhrayı damarlı mərmər (Rosa Portogallo tipli), hon, 4–6 sm, yuvarlaq kənar | Piştaxta üstü |
+| ST-01 | Ağ mərmər, yumşaq boz damarlı (Carrara / Calacatta tipli), hon, 3 sm, yuvarlaq kənar; altında 2 sm açıq palıd zolaq | Piştaxta üstü |
 | ST-02 | Ağ mərmər, yumşaq boz damarlı, hon | Bistro masaları |
 | ST-03 | İsti-ağ əhəngdaşı plitə, 60×120 sm, hon | Döşəmə |
 | PL-01 | İsti-ağ əhəngli suvaq (limewash) | Üst divarlar, tavan |
@@ -37,6 +38,19 @@
 | GL-01 / GL-02 / GL-03 | Low-iron şüşə (çərçivəsiz vitrin) / opal şüşə (kürə lampalar) / köhnəldilmiş güzgü (dairəvi) | Vitrin / lampalar / qalereya |
 | AC-01 | Təbii fıstıq ağacı oxlovlar | Çıraq və qapı tutacağı |
 | AR-01 | Qoz, palıd, qara, nazik latun çərçivələr, geniş krem paspartu | Qalereya divarı |
+
+## Piştaxta — alternativlər
+Əsas variant **A** stil kilidindədir. B və ya C-ni sınamaq üçün stil kilidini göndərəndən sonra uyğun sətri göndərin.
+
+- **A — Tünd yaşıl "barmaq" kafel (əsas):** brend yaşılı və rəng gətirir, London kafelərinin kafel ənənəsinə bağlanır, modern görünür. Ref: 08.
+- **B — Yaşıl-krem şaquli zolaqlı kafel (Lina Stores ruhu):** London ab-havası ən güclü olan variant. Ref: 15.
+```
+Change only the counter: its front is clad in vertical stripes of glazed tiles alternating deep Spring green and cream (each stripe one tile wide), with a honed white marble top with rounded edges and a slim brushed-brass foot rail. Keep everything else the same.
+```
+- **C — Flüt açıq palıd + ağ yuvarlaq üst (Michalak ruhu):** ən sakit və zərif variant. Rəngi azdır, rəngi qalereya verir. Ref: 05.
+```
+Change only the counter: its front is clad in fine vertical fluted light oak, with a smooth rounded white top band (honed white stone or white Corian) wrapping the edge, a long frameless glass cake display, and two sculptural brushed-brass lamp posts with opal globes on the counter. Keep everything else the same.
+```
 
 ## İstifadə qaydası
 1. ChatGPT-də yeni söhbət açın, **0. Stil kilidi** mətnini göndərin, sonra kadrları bir-bir göndərin.
@@ -53,7 +67,7 @@ For this whole conversation you are creating photorealistic, Pinterest-worthy in
 THE SPACE: an almost square ground-floor room of about 45 m² (approx. 7 × 6.5 m), ceiling about 3.8 m, in a 19th-century limestone building with tall rectangular street windows. Not a long narrow room.
 
 LAYOUT (keep consistent):
-- Back-right corner: a sculptural cake counter with softly rounded corners. Its base is two or three stacked, rounded walnut "rolls" like cake layers, with a thick honed pink-veined marble top and a low frameless glass cake display.
+- Back-right corner: an L-shaped cake counter with generously rounded corners. Its front is clad in vertical handmade glazed finger tiles in deep Spring green with a satin glaze and subtle tone variation, a slim brushed-brass foot rail along the bottom, a thin light-oak band under the top, and a honed white marble top with soft grey veins and rounded edges. On top, a low, simple frameless glass cake display and one glass cake dome.
 - Back wall behind the counter: a minimal light-oak shelving wall with one arched niche and very few objects. Beside it, three large food photographs in wide-matted walnut frames hung side by side, with two brushed-steel cone pendants in front of them.
 - Above the counter: a minimal linear chandelier — a slim brushed-brass bar with one row of natural wooden rolling pins.
 - Left wall: a long built-in sage-green leather banquette with soft vertical channels; above it a curated LONDON-STYLE GALLERY WALL (salon hang) of 14–18 framed artworks: botanical engravings (lotus, roses, cherries), small still-life oil paintings of cakes and fruit, vintage London posters, black-and-white street photographs of London and old Baku, a small portrait, two or three colourful majolica plates and one small round mirror. Mixed frames in walnut, light oak, black and thin brass, with wide cream mats. Aligned top and bottom edges, even gaps. Small round honed marble tables on slim pedestals, light-oak chairs with rounded backs.
@@ -70,9 +84,10 @@ PALETTE: warm white #F4EFE6, light oak #C9A57B, walnut #6E4A33, sage green #A9B7
 
 MATERIAL PALETTE (use exactly these, matte or satin only):
 - WD-01 Light oak, natural matte oil, fine straight grain — shelving wall, window bench, chairs, table pedestal, door frames.
-- WD-02 Walnut, satin lacquer, rich figured grain — the stacked "layer-cake" counter base, picture frames.
+- WD-02 Walnut, satin lacquer — picture frames and small details only.
+- TL-01 Handmade glazed finger tiles 2.5×20 cm, deep Spring green #1F3B30, satin glaze with subtle tone variation, laid vertically — counter front.
 - WD-03 Sage-green painted wood panelling (#A9B79A), eggshell — lower walls up to 1.1 m.
-- ST-01 Pink-veined marble (Rosa Portogallo type), honed, 4–6 cm thick with rounded edge — counter top.
+- ST-01 White marble with soft grey veins (Carrara/Calacatta type), honed, 3 cm, rounded edge, over a thin light-oak band — counter top.
 - ST-02 White marble with soft grey veins, honed — small round bistro tables.
 - ST-03 Warm white limestone floor tiles, large format 60×120 cm, honed — floor.
 - PL-01 Warm white limewash plaster with soft cloudy texture — upper walls and ceiling.
@@ -112,18 +127,18 @@ Vertical diagonal close-up along the gallery wall: frames overlapping in depth �
 
 ### 3. "Giriş anı" — qapıdan içəri (2:3)
 ```
-Vertical photograph from outside through the open glass door, framed by the door edge: inside, the colourful gallery wall over the sage banquette on the left, the walnut-layered counter with pink marble top and cakes under glass on the right, the linear rolling-pin chandelier, one tomato-red lampshade, sunlight patches on the warm white stone floor. Inviting London-café feeling. 2:3, 35 mm.
+Vertical photograph from outside through the open glass door, framed by the door edge: inside, the colourful gallery wall over the sage banquette on the left, the deep-green tiled counter with white marble top and cakes under glass on the right, the linear rolling-pin chandelier, one tomato-red lampshade, sunlight patches on the warm white stone floor. Inviting London-café feeling. 2:3, 35 mm.
 ```
 
 ### 4. Piştaxta və arxa divar — üç böyük çərçivə (4:5)
 **Əlavə edin:** 07, 18
 ```
-Photograph of the counter area: the stacked walnut "layer-cake" counter base with thick honed pink marble top and a low glass display of four cakes; behind, three large framed food photographs in wide-matted walnut frames side by side (a cake on a marble table, a bowl of cherries, a close-up of cream and berries), two brushed-steel cone pendants hanging in front of them, light-oak shelves with an arched niche to the side. Warm, crafted, editorial. 4:5, 35 mm.
+Photograph of the counter area: the L-shaped counter with rounded corners clad in vertical deep-green handmade finger tiles, a slim brushed-brass foot rail, a thin light-oak band and a honed white marble top, with a low frameless glass display of four cakes; behind, three large framed food photographs in wide-matted walnut frames side by side (a cake on a marble table, a bowl of cherries, a close-up of cream and berries), two brushed-steel cone pendants hanging in front of them, light-oak shelves with an arched niche to the side. Warm, crafted, editorial. 4:5, 35 mm.
 ```
 
 ### 5. Piştaxta — aşağı bucaq (2:3)
 ```
-Low-angle vertical close-up of the counter corner: stacked walnut rolls with rich grain, the pink marble top curving above, one tall pistachio layer cake on a pale ceramic stand, the gallery wall softly blurred and colourful in the background. 2:3, 50 mm, f/2.8.
+Low-angle vertical close-up of the rounded counter corner: vertical deep-green handmade finger tiles catching soft light with subtle tone variation, a slim brushed-brass foot rail, the thin light-oak band and honed white marble top curving above, one tall pistachio layer cake on a pale ceramic stand, the gallery wall softly blurred and colourful in the background. 2:3, 50 mm, f/2.8.
 ```
 
 ### 6. Masa üstü — yuxarıdan (4:5)
@@ -161,7 +176,7 @@ A coordinated set of 9 artworks for a London-style café gallery wall, shown as 
 
 ### 12. Material lövhəsi — flat-lay (4:5)
 ```
-Top-down flat-lay photograph of the SPRING material palette on a warm white limewash board, soft daylight from one side, gentle realistic shadows, samples sized by how much they are used and slightly overlapping: a large honed warm white limestone tile (ST-03), a light-oak veneer sample (WD-01), a rounded walnut block (WD-02), a sage-green painted wood panel strip (WD-03), a thick honed pink-veined marble chip with a rounded edge (ST-01), a small honed white marble disc (ST-02), a warm white limewash sample and a cake-pink limewash sample (PL-01, PL-02), a sage-green leather swatch with one vertical channel stitch (UP-01), an oat bouclé swatch and a mustard linen swatch (UP-02, UP-03), a tomato-red pleated cotton swatch (TX-01), a brushed-brass strip and a brushed-steel strip (MT-01, MT-02), a small opal glass piece (GL-02), a mini beech rolling pin (AC-01), and a corner of a walnut picture frame with cream mat (AR-01). Airy, minimal, editorial, no text, no labels. 4:5.
+Top-down flat-lay photograph of the SPRING material palette on a warm white limewash board, soft daylight from one side, gentle realistic shadows, samples sized by how much they are used and slightly overlapping: a large honed warm white limestone tile (ST-03), a light-oak veneer sample (WD-01), a few deep-green handmade finger tiles (TL-01), a sage-green painted wood panel strip (WD-03), a honed white marble chip with a rounded edge (ST-01), a small honed white marble disc (ST-02), a warm white limewash sample and a cake-pink limewash sample (PL-01, PL-02), a sage-green leather swatch with one vertical channel stitch (UP-01), an oat bouclé swatch and a mustard linen swatch (UP-02, UP-03), a tomato-red pleated cotton swatch (TX-01), a brushed-brass strip and a brushed-steel strip (MT-01, MT-02), a small opal glass piece (GL-02), a mini beech rolling pin (AC-01), and a corner of a walnut picture frame with cream mat (AR-01). Airy, minimal, editorial, no text, no labels. 4:5.
 ```
 
 ---
